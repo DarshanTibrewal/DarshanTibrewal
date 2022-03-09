@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **DBMS , MySQL , JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
