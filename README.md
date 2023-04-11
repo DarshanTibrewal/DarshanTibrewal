@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F630px-New_Power_BI_Logo.svg.png&tbnid=udkjDeZGOQNEkM&vet=12ahUKEwjUu7LdwKH-AhX4C7cAHfLRDgMQMygGegUIARCcAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&w=630&h=630&q=power%20bi%20icon%20without%20background&hl=en-GB&ved=2ahUKEwjUu7LdwKH-AhX4C7cAHfLRDgMQMygGegUIARCcAQ" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="download.png" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
